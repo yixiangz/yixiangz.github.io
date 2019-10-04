@@ -18,6 +18,10 @@ body{
     padding-bottom: 71px;
 }
 
+.inline {
+    background: url("../images/Capture3.png") no-repeat;
+}
+
 button:hover{
     background-color: orange;
 }
