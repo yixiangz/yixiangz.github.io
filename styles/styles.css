@@ -19,7 +19,7 @@ body{
 }
 
 .inline {
-    background: url("../images/Capture3.png") no-repeat;
+    background-image: url("../images/Capture3.png") no-repeat;
 }
 
 button:hover{
